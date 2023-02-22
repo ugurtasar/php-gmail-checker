@@ -1,4 +1,12 @@
 <?php
+/******************************************************
+*******************************************************
+****************** PHPHUNT SCRIPTS ********************
+*************  https://www.phphunt.com   **************
+**** This software is distributed free of charge. *****
+******** for coding projects: utasar@icloud.com *******
+*******************************************************
+******************************************************/
     //Thanks to Guia Brahim Fouad
     class Checker {
         private $urlGmailCheck = 'https://mail.google.com/mail/gxlu?email=<valid_account>';
