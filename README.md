@@ -1,5 +1,7 @@
 # PHP Gmail Checker
 
+Verify e-mail addresses exist or not exist on gmail.
+
 2) Upload all files and browse index.php
 
 Enjoy.
