@@ -1,4 +1,5 @@
 <?php
+    //Thanks to Guia Brahim Fouad
     class Checker {
         private $urlGmailCheck = 'https://mail.google.com/mail/gxlu?email=<valid_account>';
         private $debug = FALSE;
